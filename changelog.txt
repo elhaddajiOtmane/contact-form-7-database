@@ -1,0 +1,103 @@
+Oct 10, 2022 - Version 3.0.5
+- Added: Alert when activating 2 versions
+- Fixed: Small bugs
+
+Oct 29, 2021 - Version 3.0.4
+- Fixed: Error when activate plugin 
+
+Oct 13, 2021 - Version 3.0.3
+- Fixed: Error when edit row
+
+Jul 14, 2021 - Version 3.0.2
+- Fixed: Export CSV file 
+
+Jun 21, 2021 - Version 3.0.1
+- Added: Export by filter
+
+Mar 22, 2021 - Version 3.0
+- Added: New UI
+- Added: Horizontal scroll by default 
+- Added: Filter dropdown
+- Added: View Database link
+- Improved: Notification UI
+- Improved: Tooltip
+- Improved: Sort column
+- Improved: UI color
+- Improved: Checkbox
+- Improved: Table padding
+- Improved: Center/ Middle loading icon
+- Improved: View popup
+- Fixed: Active input color
+- Fixed: No data checkbox issue
+- Fixed: Scroll issue
+- Fixed: Search CSS
+- Fixed: Button Settings issues
+- Fixed: Some bugs
+
+Dec 12, 2019 – Version 2.1
+- Add: Column ID
+- Remove: User_id due to the change of CF7
+
+Oct 31, 2018 – Version 2.0
+
+- Fixed: Error with apostrophe
+
+May 10, 2018 – Version 1.9.9
+- Added: new hook 
+- Fixed: some bugs
+
+Jun 6, 2017 – Version 1.9.8.1
+- Fixed bug when save settings without data
+
+May 9, 2017 – Version 1.9.8
+- Added: on/off hide empty rows (only on vertical table)
+
+Mar 7, 2017 – Version 1.9.7
+- Fixed: Some bugs
+
+Feb 15, 2017 – Version 1.9.6
+- Fixed: Remove deprecated function
+
+Feb 14, 2017 – Version 1.9.5
+- Fixed: Time bug
+
+Jan 26, 2017 – Version 1.9.4
+- Added: Click to view if value is URL
+
+Jan 25, 2017 – Version 1.9.3
+- Added some hooks
+
+Sep 17, 2016 – Version 1.9.2
+- Fixed: Fix bugs and CSS
+
+Apr 1, 2016 – Version 1.9
+- Fixed: CSS padding
+- Added: Select row to export
+
+Mar 29, 2016 – Version 1.8
+- Fixed: Export CSV
+
+Mar 28, 2016 – Version 1.7
+- Fixed: UTF8
+
+Mar 23, 2016 – Version 1.6
+- Fixed: CSS pagination
+
+Mar 23, 2016 – Version 1.5
+- Added: Search feature
+
+Mar 19, 2016 – Version 1.4
+- Added: 2 layout types
+
+Mar 19, 2016 – Version 1.3
+- Added: Edit contact data function
+
+Feb 29, 2016 – Version 1.2
+- Fixed: Delete error
+- Fixed: Export CSV function
+
+Feb 23, 2016 – Version 1.1
+- Fixed: Javascript bug
+
+Jan 29, 2016 – Version 1.0
+- Version 1.0 Initial Release
